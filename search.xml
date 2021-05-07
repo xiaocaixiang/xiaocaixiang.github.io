@@ -24,7 +24,7 @@
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
 
 <p>本地访问地址：<a href="http://localhost:4000/">http://localhost:4000/</a></p>
-<p><img src="https://cdn.jsdelivr.net/gh/xiaocaixiang/image/img/hexo.jpg%22Hexo%E5%90%AF%E5%8A%A8%E6%88%90%E5%8A%9F%22"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/xiaocaixiang/image/img/hexo.jpg"></p>
 </li>
 <li><p>新建博文</p>
  <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">hexo n &quot;第一篇博客文章&quot;</span><br></pre></td></tr></table></figure>
