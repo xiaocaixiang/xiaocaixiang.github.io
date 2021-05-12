@@ -149,4 +149,42 @@
         <tag>Github</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Test</title>
+    <url>/2021/05/12/%E7%AD%94%E8%BE%A9/</url>
+    <content><![CDATA[<h1 id="运行项目"><a href="#运行项目" class="headerlink" title="运行项目"></a>运行项目</h1><p><img src="https://cdn.jsdelivr.net/gh/xiaocaixiang/image/img/20210512122758.png"></p>
+<p>​            项目运行成功后打开系统网页<a href="http://127.0.0.1:8000/index/index.html">http://127.0.0.1:8000/index/index.html</a></p>
+<h1 id="进入页面"><a href="#进入页面" class="headerlink" title="进入页面"></a>进入页面</h1><ol>
+<li><p>首先看到的是首页</p>
+<p><img src="https://cdn.jsdelivr.net/gh/xiaocaixiang/image/img/20210512123037.png"></p>
+<p>首页对系统做了简介、介绍了功能、与系统使用方法</p>
+</li>
+<li><p>接着点击诗词分析</p>
+<p>诗词分析有基于字的分析和基于词的分析两部分</p>
+<ul>
+<li> 首先看基于字的分析</li>
+</ul>
+<p>这部分分析了诗词的常用字、颜色、动植物排名，分别绘制柱状图、折线图和饼图进行可视化展示。其中柱状图配置了区域缩放，可以拖动滑块查看。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/xiaocaixiang/image/img/20210512123231.png"></p>
+<ul>
+<li>随后看基于词的分析部分</li>
+</ul>
+<p>这部分分析了诗词的词云图；常用时间、地点、场景排名的时间线图，以及关联词查询功能</p>
+<p>关联词查询功能可以自行输入一个词以查看与其最相近的前10个字/词</p>
+<p><img src="https://cdn.jsdelivr.net/gh/xiaocaixiang/image/img/20210512123718.png"></p>
+</li>
+<li><p>最后是小说分析功能</p>
+<p>此部分有三块，但首先需要新建分析。</p>
+<p>点击两个<strong>Choose file</strong>，分别传入需要分析的小说文本以及小说的人物名称名词典，随后点击提交，即可对提交的小说进行分析，这个过程需要10-30分钟。</p>
+<p>如果不上传文件就查看人物关系和情感分析，则会保留上一次的分析内容。默认有一个分析，分析内容是《红楼梦》。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/xiaocaixiang/image/img/20210512124837.png"></p>
+</li>
+</ol>
+<p>待新建分析完成就可以查看小说的人物关系和情感分析了</p>
+<p>人物关系图，人物点越大代表其中小说中权重越高，一般是指主角，人物连线越多代表与其有关联的人越多，一般指推动情节发展的关键人物。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/xiaocaixiang/image/img/20210512125324.png"></p>
+<p>情感分析，绘制了章节总体情感表现、与章节情感波动情况，是带有区域缩放功能的折线图，可以自由拖放滑块以查看不同章节的情感分析。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/xiaocaixiang/image/img/20210512125355.png"></p>
+]]></content>
+  </entry>
 </search>
